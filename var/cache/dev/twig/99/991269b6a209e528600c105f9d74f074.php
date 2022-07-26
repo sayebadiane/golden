@@ -136,6 +136,6 @@ class __TwigTemplate_b1976617d89193757e5ec222d8580570 extends Template
     </ul>
 </div>
 {% endblock %}
-", "mailer/index.html.twig", "/opt/lampp/htdocs/projet-fil-rouge-brazil-burger (copie)/templates/mailer/index.html.twig");
+", "mailer/index.html.twig", "/home/saye/Documents/projet-fil-rouge-brazil-burger-golden/templates/mailer/index.html.twig");
     }
 }

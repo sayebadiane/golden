@@ -65,6 +65,6 @@ class __TwigTemplate_13ece86d6740cad573a09d787cc1c4be extends Template
     public function getSourceContext()
     {
         return new Source("{% extends \"@email/zurb_2/notification/body.html.twig\" %}
-", "@email/default/notification/body.html.twig", "/opt/lampp/htdocs/projet-fil-rouge-brazil-burger (copie)/vendor/symfony/twig-bridge/Resources/views/Email/default/notification/body.html.twig");
+", "@email/default/notification/body.html.twig", "/home/saye/Documents/projet-fil-rouge-brazil-burger-golden/vendor/symfony/twig-bridge/Resources/views/Email/default/notification/body.html.twig");
     }
 }

@@ -71,6 +71,6 @@ class __TwigTemplate_122ea0a897c59c1359259d1506f23126 extends Template
 
 <br>
 
-<a href=\"{{ url('confirm_account', {\"token\": token}) }}\">Cliquer ici pour confirmer votre compte</a>", "emails/registration.html.twig", "/opt/lampp/htdocs/projet-fil-rouge-brazil-burger (copie)/templates/emails/registration.html.twig");
+<a href=\"{{ url('confirm_account', {\"token\": token}) }}\">Cliquer ici pour confirmer votre compte</a>", "emails/registration.html.twig", "/home/saye/Documents/projet-fil-rouge-brazil-burger-golden/templates/emails/registration.html.twig");
     }
 }

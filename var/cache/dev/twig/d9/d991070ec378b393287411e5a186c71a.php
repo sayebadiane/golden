@@ -267,6 +267,6 @@ class __TwigTemplate_639cecdf3e20d05151667b518b3ef6a4 extends Template
         </tbody>
     </table>
 {% endblock %}
-", "@VichUploader/Collector/mapping_collector.html.twig", "/opt/lampp/htdocs/projet-fil-rouge-brazil-burger (copie)/vendor/vich/uploader-bundle/templates/Collector/mapping_collector.html.twig");
+", "@VichUploader/Collector/mapping_collector.html.twig", "/home/saye/Documents/projet-fil-rouge-brazil-burger-golden/vendor/vich/uploader-bundle/templates/Collector/mapping_collector.html.twig");
     }
 }

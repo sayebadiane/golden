@@ -680,6 +680,6 @@ class __TwigTemplate_c7fa962883bd8df2640f8e3979e8aa8d extends Template
         <td class=\"font-normal\">{{ migration.execution_time|default('n/a') }}</td>
     </tr>
 {% endmacro %}
-", "@DoctrineMigrations/Collector/migrations.html.twig", "/opt/lampp/htdocs/projet-fil-rouge-brazil-burger (copie)/vendor/doctrine/doctrine-migrations-bundle/Resources/views/Collector/migrations.html.twig");
+", "@DoctrineMigrations/Collector/migrations.html.twig", "/home/saye/Documents/projet-fil-rouge-brazil-burger-golden/vendor/doctrine/doctrine-migrations-bundle/Resources/views/Collector/migrations.html.twig");
     }
 }

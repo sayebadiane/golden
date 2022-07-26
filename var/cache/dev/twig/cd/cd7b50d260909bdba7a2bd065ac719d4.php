@@ -385,6 +385,6 @@ class __TwigTemplate_d5aa9f2047594a6fdfecc1ab5c27ce0a extends Template
 
 </body>
 </html>
-", "@ApiPlatform/SwaggerUi/index.html.twig", "/opt/lampp/htdocs/projet-fil-rouge-brazil-burger (copie)/vendor/api-platform/core/src/Bridge/Symfony/Bundle/Resources/views/SwaggerUi/index.html.twig");
+", "@ApiPlatform/SwaggerUi/index.html.twig", "/home/saye/Documents/projet-fil-rouge-brazil-burger-golden/vendor/api-platform/core/src/Bridge/Symfony/Bundle/Resources/views/SwaggerUi/index.html.twig");
     }
 }

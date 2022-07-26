@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '02d85af82915c9308c1125bec8c406b2d2c2e34f',
+        'reference' => '1682e725797df08c1d602efb653791f7bf5529e1',
         'name' => '__root__',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '02d85af82915c9308c1125bec8c406b2d2c2e34f',
+            'reference' => '1682e725797df08c1d602efb653791f7bf5529e1',
             'dev_requirement' => false,
         ),
         'api-platform/core' => array(
@@ -420,6 +420,15 @@
             'install_path' => __DIR__ . '/../stella-maris/clock',
             'aliases' => array(),
             'reference' => '8a0a967896df4c63417385dc69328a0aec84d9cf',
+            'dev_requirement' => false,
+        ),
+        'symfony/apache-pack' => array(
+            'pretty_version' => 'v1.0.1',
+            'version' => '1.0.1.0',
+            'type' => 'symfony-pack',
+            'install_path' => __DIR__ . '/../symfony/apache-pack',
+            'aliases' => array(),
+            'reference' => '3aa5818d73ad2551281fc58a75afd9ca82622e6c',
             'dev_requirement' => false,
         ),
         'symfony/asset' => array(

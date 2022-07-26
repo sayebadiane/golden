@@ -165,6 +165,6 @@ class __TwigTemplate_900e3144ca1645bfd323e944eddd00a2 extends Template
         {%- endfor -%}
     </pre>
 {% endif %}
-", "@Doctrine/Collector/explain.html.twig", "/opt/lampp/htdocs/projet-fil-rouge-brazil-burger (copie)/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
+", "@Doctrine/Collector/explain.html.twig", "/home/saye/Documents/projet-fil-rouge-brazil-burger-golden/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
     }
 }

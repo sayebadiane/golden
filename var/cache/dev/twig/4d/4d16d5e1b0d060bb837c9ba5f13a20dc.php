@@ -1134,6 +1134,6 @@ class __TwigTemplate_08d940243de3dec67e4803d4c73dfa26 extends Template
 
 </body>
 </html>
-", "@ApiPlatform/GraphQlPlayground/index.html.twig", "/opt/lampp/htdocs/projet-fil-rouge-brazil-burger (copie)/vendor/api-platform/core/src/Bridge/Symfony/Bundle/Resources/views/GraphQlPlayground/index.html.twig");
+", "@ApiPlatform/GraphQlPlayground/index.html.twig", "/home/saye/Documents/projet-fil-rouge-brazil-burger-golden/vendor/api-platform/core/src/Bridge/Symfony/Bundle/Resources/views/GraphQlPlayground/index.html.twig");
     }
 }
