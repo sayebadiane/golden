@@ -1,0 +1,41 @@
+<?php //resource_name_collection
+
+return [PHP_INT_MAX, static function () { return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+    $o = [
+        clone (\Symfony\Component\VarExporter\Internal\Registry::$prototypes['ApiPlatform\\Core\\Metadata\\Resource\\ResourceNameCollection'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('ApiPlatform\\Core\\Metadata\\Resource\\ResourceNameCollection')),
+    ],
+    null,
+    [
+        'ApiPlatform\\Core\\Metadata\\Resource\\ResourceNameCollection' => [
+            'classes' => [
+                [
+                    'App\\Entity\\User',
+                    'App\\Entity\\PortionFrite',
+                    'App\\Entity\\Produit',
+                    'App\\Entity\\Client',
+                    'App\\Entity\\Taille',
+                    'App\\Entity\\BurgerCommande',
+                    'App\\Entity\\BoissonTailleCommande',
+                    'App\\Entity\\Quartier',
+                    'App\\Entity\\Complements',
+                    'App\\Entity\\MenuPortionFrite',
+                    'App\\Entity\\Img',
+                    'App\\Entity\\MenuBurger',
+                    'App\\Entity\\Commande',
+                    'App\\Entity\\Gestionnaire',
+                    'App\\Entity\\MenuTaille',
+                    'App\\Entity\\Livreur',
+                    'App\\Entity\\MenuCommande',
+                    'App\\Entity\\Menu',
+                    'App\\Entity\\Burger',
+                    'App\\Entity\\Catalogues',
+                    'App\\Entity\\Zone',
+                    'App\\Entity\\BoissonTaille',
+                    'App\\Entity\\Boisson',
+                ],
+            ],
+        ],
+    ],
+    $o[0],
+    []
+); }];

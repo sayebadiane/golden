@@ -1,0 +1,31 @@
+<?php //subresource_operations_814f4a42ba56e8bee70648ec542b9996
+
+return [PHP_INT_MAX, [
+    'api_gestionnaires_burgers_get_subresource' => [
+        'property' => 'burgers',
+        'collection' => true,
+        'resource_class' => 'App\\Entity\\Burger',
+        'shortNames' => [
+            'Burger',
+            'Gestionnaire',
+        ],
+        'identifiers' => [
+            'id' => [
+                'App\\Entity\\Gestionnaire',
+                'id',
+                true,
+            ],
+        ],
+        'operation_name' => 'burgers_get_subresource',
+        'route_name' => 'api_gestionnaires_burgers_get_subresource',
+        'path' => '/gestionnaires/{id}/burgers.{_format}',
+        'defaults' => [],
+        'requirements' => [],
+        'options' => [],
+        'host' => '',
+        'schemes' => [],
+        'condition' => '',
+        'controller' => null,
+        'stateless' => null,
+    ],
+]];

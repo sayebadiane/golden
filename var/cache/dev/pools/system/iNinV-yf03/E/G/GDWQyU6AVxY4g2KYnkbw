@@ -1,0 +1,3 @@
+<?php //App%255CEntity%255CMenuCommande
+
+return [PHP_INT_MAX, []];
